@@ -1,0 +1,1 @@
+There isn't a simple fixed limit like maximum 100 users. Firebase's limits are mainly based on usage.tabases like MySQL,PostgreSQL, and SQL Server.Cloud Spanner — Globally distributed relational database, designed for large-scale systems.BigQuery — Data warehouse for analytics and very large datasets.Firebase Realtime Database — NoSQL database with real-time data synchronization.
